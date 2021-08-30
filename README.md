@@ -41,6 +41,6 @@ Guideline for table filters:
 Describe one drawback of this new design and two recommendations for further development.
 - Drawback: All search field is open answer, user has to input the exact value for the result
 - Recommendations: 
-  1. Add dropdown menu with options for "City", "State" and Shape" search
+  1. Add dropdown menu with options for "City", "State" and "Shape" search
   2. Add drop down calender with date range select options
   3. Add "No Result Found" when search input does not match any data 
